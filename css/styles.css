@@ -2,3 +2,9 @@ h1 {
   text-align: center;
   color:teal;
 }
+h2 {
+  text-shadow: 4;
+}
+body{
+  background-color: #014991;
+}
